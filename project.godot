@@ -12,7 +12,7 @@ config_version=5
 
 config/name="GameDemo"
 run/main_scene="res://src/Main.tscn"
-config/features=PackedStringArray("4.3", "C#", "Mobile")
+config/features=PackedStringArray("4.4", "C#", "Mobile")
 config/icon="res://icon.png"
 
 [debug]
@@ -117,7 +117,7 @@ pause={
 
 [physics]
 
-3d/physics_engine="JoltPhysics3D"
+3d/physics_engine="Jolt Physics"
 3d/default_gravity=16.0
 
 [rendering]
