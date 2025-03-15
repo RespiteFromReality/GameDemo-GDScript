@@ -5,6 +5,10 @@
 The Chickensoft Game Demo — a fully tested, third-person 3D game built with Godot and C#. _Now with [saving and loading][save-load], including full
 game state preservation!_
 
+> [!WARNING]  
+> This is a fork of Chickensofts Game Demo, being rewritten to GDScript.
+> The repository is being ported and is currently not ready for use!
+
 > [!IMPORTANT]
 > Be sure to run [`git lfs pull`][lfs] to resolve the binary files.
 
